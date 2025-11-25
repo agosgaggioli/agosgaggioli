@@ -46,8 +46,7 @@ Desarrollo sistemas reales como el **Sistema Degra Automotores** (stock, ventas,
 
 ### **Otros**
 - Git / GitHub  
-- Python · Pandas  
-- Java · Kotlin · Selenium  
+- Python · Pandas   
 - UML · OpenAPI · Markdown  
 - Google Sheets · Excel  
 - VS Code · Android Studio  
@@ -124,20 +123,4 @@ Backend completo para comercio electrónico:
 - **GitHub:** https://github.com/agostinagaggioli  
 - **LinkedIn:** https://linkedin.com/in/agostinagaggioli  
 - **Email:** gaggioliagostina@gmail.com
-
----
-
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=agostinagaggioli&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="180"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinagaggioli&layout=compact&theme=tokyonight&hide_border=true" 
-  height="180"
-/>
-
-</div>
 
