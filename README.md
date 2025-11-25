@@ -127,20 +127,17 @@ Backend completo para comercio electrónico:
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
 
-<!-- Stats generales -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=agostinagaggioli&show_icons=true&theme=radical&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=agostinagaggioli&show_icons=true&theme=tokyonight&hide_border=true" 
   height="180"
 />
 
-<!-- Lenguajes más usados -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinagaggioli&layout=compact&theme=radical&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=agostinagaggioli&layout=compact&theme=tokyonight&hide_border=true" 
   height="180"
 />
 
 </div>
+
